@@ -1,3 +1,2 @@
 # my-first-repo
-This is just a test.
-This is an update to my test file.
+This is a branched version of my README.md file in my first repo.
